@@ -22,6 +22,6 @@ if bit == "64bit":
 
 elif bit == "32bit":
 
-        from randm32 import main
+        from rndm32 import main
 
         main()
