@@ -19,7 +19,7 @@ if bit == "64bit":
         from rndm  import main
 
         main()
-
+#32
 elif bit == "32bit":
 
         from rndm32 import main
